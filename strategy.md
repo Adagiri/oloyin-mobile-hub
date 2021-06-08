@@ -1,8 +1,7 @@
-1. features {ongoing}
-2. Tools
+1. features 
 
-3. Content
+2. Content
 
-4. Design
+3. Design
 
-5. Development
+4. Development
