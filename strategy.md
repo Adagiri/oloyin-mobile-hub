@@ -4,4 +4,8 @@
 
 3. Design
 
+typography
+homepage
+
 4. Development
+
